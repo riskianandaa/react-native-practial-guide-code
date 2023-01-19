@@ -10,13 +10,17 @@ For example, the branch 01-getting-started holds all code snapshots and extra ma
 
 You can switch branches via the branch dropdown above the directory explorer.
 
+![select-branch](https://user-images.githubusercontent.com/94092765/213362850-377db636-39b5-4f72-bef2-5c572de35b8a.jpeg)
+
+
 Click on the branch dropdown and then select the appropriate branch for the course section you're looking for
 
 In most branches, you'll find multiple folders which organize the section-specific content further:
 
-Often, you'll find a /code subfolder which contains any relevent code snapshots for the given course section
-You also often find /slides folders which - guess what - contain the slides for the module
-/extra-files typically contains extra files like .css files that might be attached to individual lectures in that course module
+* Often, you'll find a /code subfolder which contains any relevent code snapshots for the given course section
+* You also often find /slides folders which - guess what - contain the slides for the module
+* /extra-files typically contains extra files like .css files that might be attached to individual lectures in that course module
+
 The folder names should generally be self-explanatory but also feel free to simply click around and see which materials are available.
 
 # Using code snapshots
